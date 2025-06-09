@@ -1,7 +1,7 @@
 # AIcademy Frontend
 AIcademy is an LMS platform similar to Udemy, where students can access high-quality courses at affordable rates, and teachers can earn by selling their courses. AIcademy acts as a bridge between teachers and students, offering unique AI features to enhance the learning experience.
 
-Looking for project backend? [AIcademy backend repo](https://github.com/abhiram-ar/aicademy-backend)
+Looking for project backend? [AIcademy backend repo](https://RosuMihaiAlexandru/aicademy-server-ffmpeg)
 
 ## Overview
 
@@ -30,7 +30,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhiram-ar/aicademy-fontend.git
+   git clone https://github.com/RosuMihaiAlexandru/aicademy-client-lms.git
    ```
 2. Install dependencies:
    ```bash
